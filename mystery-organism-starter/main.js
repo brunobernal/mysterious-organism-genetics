@@ -145,7 +145,7 @@ while (survivingSpecimen.length < 30) {
 
 console.log(survivingSpecimen)
 
-
+*/
 
 
 
